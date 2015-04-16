@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kislog</title>
+    <description>this site is weblog and memograph.
+</description>
+    <link>http://kisjam.com/</link>
+    <atom:link href="http://kisjam.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 16 Apr 2015 11:19:52 +0900</pubDate>
+    <lastBuildDate>Thu, 16 Apr 2015 11:19:52 +0900</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Hello world</title>
+        <description>&lt;h1 id=&quot;hello-world&quot;&gt;Hello world.&lt;/h1&gt;
+&lt;p&gt;jekyllでブログをはじめることにしました。
+Github pagesでホスティングしています。
+備忘録や日記のように使っていく予定です。&lt;/p&gt;
+</description>
+        <pubDate>Thu, 16 Apr 2015 20:05:59 +0900</pubDate>
+        <link>http://kisjam.com/weblog/2015/04/16/hello-world.html</link>
+        <guid isPermaLink="true">http://kisjam.com/weblog/2015/04/16/hello-world.html</guid>
+        
+        
+        <category>weblog</category>
+        
+      </item>
+    
+  </channel>
+</rss>

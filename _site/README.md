@@ -1,0 +1,2 @@
+# kislog
+new weblog.
