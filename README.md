@@ -7,20 +7,20 @@ weblog.
 ##### h5見出し
 ###### header
 
-WordpressやQiita、Githubなど、文章やブログを書く際に重宝する機能です。
+WordpressやQiita、Githubなど、文章やブログを書く際に重宝する機能です。  
 是非Evernoteに標準で入って欲しいところでもあります。
 
 
-* イタリックな** 強調された **文章 *
-~~ 打ち消すことも出来ます。 ~~
+* イタリックな** 強調された **文章 *  
+~~ 打ち消すことも出来ます。 ~~  
 
--目次や
--リストも
--こんな感じ
+-目次や  
+-リストも  
+-こんな感じ  
 
-1.もちろん
-2.Decimalなリストも
-3.いける
+1.もちろん  
+2.Decimalなリストも  
+3.いける  
 
 <dl>
 	<dt>Definition</dt>
@@ -44,3 +44,8 @@ WordpressやQiita、Githubなど、文章やブログを書く際に重宝する
 |--|--|--|
 |表組み|も|できます|
 |hoge|piyo|foo|
+
+	function() {
+		var hoge = [];
+		return false;
+	}
