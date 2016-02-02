@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "バランスボールの思わぬ落とし穴"
+title:  "バランスボール"
 date:   2015-04-20 14:00:00
 categories: weblog
 ---
