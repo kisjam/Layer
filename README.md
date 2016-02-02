@@ -1,5 +1,5 @@
-# kislog
-weblog.
+# Weblog
+ブログを書こうと早1年近くが経過しました。
 
 ## header level2
 ### header level3
