@@ -12,4 +12,7 @@ categories: Life
 	<dt>アプライ（apply）</dt>
 	<dd>応募、志願するという動詞<br />
 	[](http://ejje.weblio.jp/content/apply)</dd>
+	<dt>アプライ（apply）</dt>
+	<dd>応募、志願するという動詞<br />
+	[](http://ejje.weblio.jp/content/apply)</dd>
 </dl>
