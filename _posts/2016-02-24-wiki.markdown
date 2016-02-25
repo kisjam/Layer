@@ -2,6 +2,7 @@
 layout: post
 title:  "用語備忘録"
 date:   2016-02-24 19:00:00
+last-update:   2016-02-25 10:00:00
 categories: Life
 ---
 
@@ -12,7 +13,26 @@ categories: Life
 	<dt>アプライ（apply）</dt>
 	<dd>応募、志願するという動詞<br />
 	[](http://ejje.weblio.jp/content/apply)</dd>
-	<dt>アプライ（apply）</dt>
-	<dd>応募、志願するという動詞<br />
-	[](http://ejje.weblio.jp/content/apply)</dd>
+	<dt>ラフトラック（録音笑い）</dt>
+	<dd>TV等で収録にかぶせている笑い声のこと。笑い声以外の音声も含む。<br />
+	[](https://ja.wikipedia.org/wiki/%E9%8C%B2%E9%9F%B3%E7%AC%91%E3%81%84)</dd>
+	<dt>サステイナブル</dt>
+	<dd>地球環境を保全しつつ持続可能な開発や産業<br />
+	[](https://kotobank.jp/word/%E3%82%B5%E3%82%B9%E3%83%86%E3%82%A4%E3%83%8A%E3%83%96%E3%83%AB-510720)</dd>
+	<dt>モンテカルロ法</dt>
+	<dd>シミュレーションに乱数を用いる計算方法<br />
+	[](https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%83%86%E3%82%AB%E3%83%AB%E3%83%AD%E6%B3%95)</dd>
+	<dt>クラスアクション（集団訴訟）</dt>
+	<dd>複数人で徒党を組んで事案に対して訴訟をおこすこと。</dd>
+	<dt>裁判所命令</dt>
+	<dd>裁判所が出す「命令」</dd>
+	<dt>リーガライズ</dt>
+	<dd>解禁・合法化<br />
+	[](http://ejje.weblio.jp/content/legalize)</dd>
+	<dt>ガバメント</dt>
+	<dd>政府</dd>
+	<dt>Forward</dt>
+	<dd>前方・将来・先へ</dd>
+	<dt>treat</dt>
+	<dd>みなす・扱う</dd>
 </dl>
