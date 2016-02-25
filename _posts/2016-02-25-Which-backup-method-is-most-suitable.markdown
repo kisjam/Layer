@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "どのログが一番最適か"
-date:   2016-02-25 10:00:00
+date:   2016-02-25 00:00:00
 categories: Life
 ---
 
