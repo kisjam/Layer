@@ -2,7 +2,7 @@
 layout: post
 title:  "用語備忘録"
 date:   2016-02-24 19:00:00
-last-update:   2016-02-25 10:00:00
+last-update:   2016-03-01 00:00:00
 categories: Life
 ---
 
@@ -35,4 +35,21 @@ categories: Life
 	<dd>前方・将来・先へ</dd>
 	<dt>treat</dt>
 	<dd>みなす・扱う</dd>
+	<dt>SendGrid</dt>
+	<dd>[](https://sendgrid.kke.co.jp/)<br />
+	メール配信サービス</dd>
+	<dt>Trello</dt>
+	<dd>[](https://trello.com/)<br />
+	タスク管理</dd>
+	<dt>primizely</dt>
+	<dd>[](https://www.optimizely.com/jp/)<br />
+	ABテスト</dd>
+	<dt>teach me Biz</dt>
+	<dd>[](https://biz.teachme.jp/)<br />
+	マニュアル作成</dd>
+	<dt>プリミティブ</dt>
+	<dd>基本的な要素</dd>
+	<dt>Misoca</dt>
+	<dd>無料の請求書作成サービス<br />
+	[](https://www.misoca.jp/)</dd>
 </dl>
